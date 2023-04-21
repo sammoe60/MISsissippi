@@ -18,7 +18,7 @@ In this project we set out to answer the following questions:
 
 ## Contributions:
 
-### Miko Le:
+#### Miko Le:
 <contributions>
   
 #### Islam Orabi:
