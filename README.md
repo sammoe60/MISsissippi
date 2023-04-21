@@ -10,10 +10,10 @@
 
 ## Analysis Overview
 In this project we set out to answer the following questions:
-1. 
-2.
-3.
-4.
+1. question
+2. question
+3. question
+4. question
 
 
 ## Contributions:
