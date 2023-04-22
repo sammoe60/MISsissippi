@@ -10,9 +10,9 @@
 
 ## Analysis Overview
 In this project we set out to answer the following questions:
-1. question
-2. question
-3. question
+1. What is the correlation between the number of employees and the annual payroll in businesses?
+2. How did the annual payroll change from 2018 to 2020? 
+3. How does gender affect sales and value of shipments for businesses? 
 4. question
 
 
