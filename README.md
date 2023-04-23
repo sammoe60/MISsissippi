@@ -28,6 +28,7 @@ In this project we set out to answer the following questions:
 - Visualization 3 - Average Sales or Value of Shipments by Gender
 
 #### Sam Moe:
+- ETL, ETL report and project report with collaborators
 - Visualization 4 - Total Sales of Businesses (2018-2020)
 - Visualizations 5.1 & 5.2 - Total value and volume of sales by owner sex (2018-2020)
 - Visualizations 6.1 & 6.2 - Total value and volume of sales by owner race group (2018-2020)
