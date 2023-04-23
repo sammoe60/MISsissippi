@@ -19,7 +19,10 @@ In this project we set out to answer the following questions:
 ## Contributions:
 
 #### Miko Le:
-<contributions>
+- ETL, ETL report and project report with collaborators
+- Visualization 7.1/7.2/7.3 - Relationship between payroll and race group(Average,Highest,Lowest Amount).
+- Visualization 8 - Number of employees by Race
+
   
 #### Islam Orabi:
 - ETL, ETL report and project report with collaborators
