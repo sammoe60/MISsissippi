@@ -1,7 +1,7 @@
 # Analysis of Annual Business Survery (ABS) 2018-2020
 
 ## Description:
-> This repository contains files used for extracting, transforming, loading, analyzing, and visualizing Survey Data from the U.S. Census Bureau Annual Business Survey for the years 2018, 2019, and 2020. Additionally, this repository contains a report detailing each visualization and explaining the findings of our analysis.
+- This repository contains files used for extracting, transforming, loading, analyzing, and visualizing Survey Data from the U.S. Census Bureau Annual Business Survey for the years 2018, 2019, and 2020. Additionally, this repository contains a report detailing each visualization and explaining the findings of our analysis.
 
 ## Collaborators:
 - Miko Le
