@@ -22,7 +22,10 @@ In this project we set out to answer the following questions:
 <contributions>
   
 #### Islam Orabi:
-  <contributions>
+- ETL, ETL report and project report with collaborators
+- Visualization 1 - Number of Employees vs. Annual Payroll
+- Visualization 2 - Average Annual Payroll from 2018 to 2020
+- Visualization 3 - Average Sales or Value of Shipments by Gender
 
 #### Sam Moe:
 Visualization 4 - Total Sales of Businesses (2018-2020)
