@@ -11,8 +11,8 @@
 ## Analysis Overview
 In this project we set out to answer the following questions:
 1. What is the correlation between the number of employees and the annual payroll in businesses?
-2. How did the annual payroll change from 2018 to 2020? 
-3. How does gender affect sales and value of shipments for businesses? 
+2. How did annual payroll and sales totals change from 2018 to 2020? 
+3. Do characteristics of business owners such as gender and race correlate with sales and value of shipments for businesses? 
 4. question
 
 
@@ -25,7 +25,9 @@ In this project we set out to answer the following questions:
   <contributions>
 
 #### Sam Moe:
-<contributions>
+Visualization 4 - Total Sales of Businesses (2018-2020)
+Visualizations 5.1 & 5.2 - Total value and volume of sales by owner sex (2018-2020)
+Visualizations 6.1 & 6.2 - Total value and volume of sales by owner race group (2018-2020)
   
 ## Getting Started
   Please navigate to A8/a8_etl.ipynb to get an overview of the project, view the ETL and visualization steps.
