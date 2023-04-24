@@ -14,7 +14,7 @@ In this project we set out to answer the following questions:
 2. How did annual payroll and sales totals change from 2018 to 2020? 
 3. Do characteristics of business owners such as gender and race correlate with sales and value of shipments for businesses? 
 4. Does race have an impact on payroll?
-5. Relationship between number of employees and race?
+5. Is there a relationship between number of employees and race?
 
 
 ## Contributions:
