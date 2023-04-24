@@ -38,7 +38,7 @@ In this project we set out to answer the following questions:
 - Visualizations 6.1 & 6.2 - Total value and volume of sales by owner race group (2018-2020)
   
 ## Getting Started
-  Please navigate to A8/a8_etl.ipynb to get an overview of the project, view the ETL and visualization steps.
+  Please navigate to A8/a8.ipynb to get an overview of the project, view the ETL and visualization steps.
   
 
 
